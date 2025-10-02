@@ -27,7 +27,7 @@ public class Q1_PrefixSum {
       arr[i] = arr[i - 1] + arr[i];
     }
 
-    return arr[prefixNum - 1];
+        return arr[prefixNum - 1];
   }
 
   private static int sumFromRtoL(int L, int R, int[] arr) {
