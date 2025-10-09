@@ -1,9 +1,14 @@
-package com.jiangzh.algorithm.primary.c4;
+package com.jiangzh.algorithm.primary.c6;
+
+import com.jiangzh.algorithm.primary.c4.ListNode;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;
 
-public class Code08_MergeKLists {
+/**
+ * https://leetcode.cn/problems/merge-k-sorted-lists
+ */
+public class Code01_MergeKLists {
 
     public ListNode mergeKLists(ListNode[] lists) {
         if (lists == null || lists.length == 0) {
@@ -57,7 +62,7 @@ public class Code08_MergeKLists {
 //        ListNode[] lists = {l1, l2};
         ListNode[] lists = {null, null};
 
-        Code08_MergeKLists merge = new Code08_MergeKLists();
+        Code01_MergeKLists merge = new Code01_MergeKLists();
         ListNode result = merge.mergeKLists(lists);
         printLinkNode(result);
     }

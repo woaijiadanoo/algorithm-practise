@@ -72,8 +72,6 @@
   * https://leetcode.cn/problems/sum-lists-lcci/description/
 * Q7:**两个有序链表的合并问题**
   * https://leetcode.cn/problems/merge-two-sorted-lists/description/
-* Q8:**合并K个升序链表
-  * https://leetcode.cn/problems/vvXgSW/
 ---
 
 ## 05 位图与位运算实现加减乘除
@@ -97,15 +95,15 @@
 
 ### **题目：**
 * 合并多个有序链表
-    * LeetCode 原题：`https://leetcode.com/problems/merge-k-sorted-lists`
+    * LeetCode 原题：`https://leetcode.cn/problems/merge-k-sorted-lists`
 * 判断两棵树是否结构相同
-    * LeetCode 原题：`https://leetcode.com/problems/same-tree`
+    * LeetCode 原题：`https://leetcode.cn/problems/same-tree`
 * 判断一棵树是否是镜面树
-    * LeetCode 原题：`https://leetcode.com/problems/symmetric-tree`
+    * LeetCode 原题：`https://leetcode.cn/problems/symmetric-tree`
 * 返回一棵树的最大深度
-    * LeetCode 原题：`https://leetcode.com/problems/maximum-depth-of-binary-tree`
+    * LeetCode 原题：`https://leetcode.cn/problems/maximum-depth-of-binary-tree`
 * 用先序数组和中序数组重建一棵树
-    * LeetCode 原题：`https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal`
+    * LeetCode 原题：`https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal`
 * 展示比较器的代码使用
 * 二叉树先序、中序、后序遍历的代码实现与递归序介绍
 
@@ -118,13 +116,13 @@
 
 ### **题目：**
 * 二叉树按层遍历并收集节点
-    * LeetCode 原题：`https://leetcode.com/problems/binary-tree-level-order-traversal-ii`
+    * LeetCode 原题：`https://leetcode.cn/problems/binary-tree-level-order-traversal-ii`
 * 判断是否是平衡搜索二叉树
-    * LeetCode 原题：`https://leetcode.com/problems/balanced-binary-tree`
+    * LeetCode 原题：`https://leetcode.cn/problems/balanced-binary-tree`
 * 在二叉树上能否组成路径和
-    * LeetCode 原题：`https://leetcode.com/problems/path-sum`
+    * LeetCode 原题：`https://leetcode.cn/problems/path-sum`
 * 在二叉树上收集所有达标的路径和
-    * LeetCode 原题：`https://leetcode.com/problems/path-sum-ii`
+    * LeetCode 原题：`https://leetcode.cn/problems/path-sum-ii`
 * 判断二叉树是否是搜索二叉树
 
 ---
